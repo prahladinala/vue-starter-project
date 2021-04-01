@@ -9,4 +9,9 @@ export default{}
 
 <style >
 
+body{
+  background-color: rgb(66,66,66);
+  color: aliceblue
+}
+
 </style>
